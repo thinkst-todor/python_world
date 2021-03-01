@@ -7,6 +7,7 @@ setuptools.setup(
     name="python_world",
     version="0.0.1",
     author="Cedd Burge",
+    scripts=["python-hello-world"],
     author_email="ceddlyburge@gmail.com",
     description="A function that returns 'world'",
     long_description=long_description,
